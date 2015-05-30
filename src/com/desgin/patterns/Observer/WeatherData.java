@@ -1,4 +1,4 @@
-package com.desgin.patterns.Observer;
+package com.desgin.patterns.observer;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,6 +1,4 @@
-package com.desgin.patterns.Observer.inbuilt;
-
-import com.desgin.patterns.Observer.inbuilt.WeatherData;
+package com.desgin.patterns.observer.inbuilt;
 
 /**
  * Created by Yann on 2015/5/29.

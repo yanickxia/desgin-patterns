@@ -1,4 +1,4 @@
-package com.desgin.patterns.Observer.inbuilt;
+package com.desgin.patterns.observer.inbuilt;
 
 import java.util.Observable;
 

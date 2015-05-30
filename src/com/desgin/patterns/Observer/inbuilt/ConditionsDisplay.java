@@ -1,6 +1,6 @@
-package com.desgin.patterns.Observer.inbuilt;
+package com.desgin.patterns.observer.inbuilt;
 
-import com.desgin.patterns.Observer.DisplayElement;
+import com.desgin.patterns.observer.DisplayElement;
 
 import java.util.Observable;
 import java.util.Observer;

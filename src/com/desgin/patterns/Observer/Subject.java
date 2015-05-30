@@ -1,4 +1,4 @@
-package com.desgin.patterns.Observer;
+package com.desgin.patterns.observer;
 
 /**
  * Created by Yann on 2015/5/29.
