@@ -23,119 +23,125 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ChicagoStyleCheesePizza.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/desgin/patterns/factory/ChicagoStyleCheesePizza.java">
+      <file leaf-file-name="WildTurkey.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/desgin/patterns/adapter/WildTurkey.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="16" column="49" selection-start-line="16" selection-start-column="49" selection-end-line="16" selection-end-column="49" />
+              <caret line="13" column="40" selection-start-line="13" selection-start-column="40" selection-end-line="13" selection-end-column="40" />
               <folding>
-                <element signature="e#335#336#0" expanded="true" />
-                <element signature="e#394#395#0" expanded="true" />
+                <element signature="e#165#166#0" expanded="true" />
+                <element signature="e#209#210#0" expanded="true" />
+                <element signature="e#248#249#0" expanded="true" />
+                <element signature="e#298#299#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PizzaStore.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/desgin/patterns/factory/PizzaStore.java">
+      <file leaf-file-name="TurkeyAdapter.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/desgin/patterns/adapter/TurkeyAdapter.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="NYPizzaStore.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/desgin/patterns/factory/NYPizzaStore.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Command.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/desgin/patterns/command/Command.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="VoicePlayCommand.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/desgin/patterns/command/VoicePlayCommand.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+              <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
               <folding>
-                <element signature="e#192#193#0" expanded="true" />
-                <element signature="e#218#219#0" expanded="true" />
-                <element signature="e#262#263#0" expanded="true" />
-                <element signature="e#296#297#0" expanded="true" />
+                <element signature="e#187#188#0" expanded="true" />
+                <element signature="e#223#224#0" expanded="true" />
+                <element signature="e#264#265#0" expanded="true" />
+                <element signature="e#295#296#0" expanded="true" />
+                <element signature="e#334#335#0" expanded="true" />
+                <element signature="e#362#363#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Voice.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/desgin/patterns/command/Voice.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="17" column="35" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LightOnCommand.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/desgin/patterns/command/LightOnCommand.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
-              <folding>
-                <element signature="e#189#190#0" expanded="true" />
-                <element signature="e#215#216#0" expanded="true" />
-                <element signature="e#257#258#0" expanded="true" />
-                <element signature="e#291#292#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SimpleRemoteControl.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/desgin/patterns/command/SimpleRemoteControl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#260#261#0" expanded="true" />
-                <element signature="e#294#295#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/desgin/patterns/command/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.092348285">
-              <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
-              <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="Light.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/desgin/patterns/command/Light.java">
+        <entry file="file://$PROJECT_DIR$/src/com/desgin/patterns/facade/Light.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="16" column="35" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
+              <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TV.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/desgin/patterns/facade/TV.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Power.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/desgin/patterns/facade/Power.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BlingLight.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/desgin/patterns/facade/BlingLight.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="8" column="39" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="39" />
+              <folding>
+                <element signature="e#159#160#0" expanded="true" />
+                <element signature="e#205#206#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="APower.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/desgin/patterns/facade/APower.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="8" column="40" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
+              <folding>
+                <element signature="e#155#156#0" expanded="true" />
+                <element signature="e#205#206#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ATV.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/desgin/patterns/facade/ATV.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+              <folding>
+                <element signature="e#149#150#0" expanded="true" />
+                <element signature="e#192#193#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WatchTV.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/desgin/patterns/facade/WatchTV.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestFacade.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/desgin/patterns/facade/TestFacade.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.42480212">
+              <caret line="7" column="44" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
+              <folding>
+                <element signature="e#226#227#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -192,6 +198,19 @@
         <option value="$PROJECT_DIR$/src/com/desgin/patterns/command/Main.java" />
         <option value="$PROJECT_DIR$/src/com/desgin/patterns/command/Light.java" />
         <option value="$PROJECT_DIR$/src/com/desgin/patterns/command/Voice.java" />
+        <option value="$PROJECT_DIR$/src/com/desgin/patterns/adapter/Duck.java" />
+        <option value="$PROJECT_DIR$/src/com/desgin/patterns/adapter/MallardDuck.java" />
+        <option value="$PROJECT_DIR$/src/com/desgin/patterns/adapter/Turkey.java" />
+        <option value="$PROJECT_DIR$/src/com/desgin/patterns/adapter/WildTurkey.java" />
+        <option value="$PROJECT_DIR$/src/com/desgin/patterns/adapter/TurkeyAdapter.java" />
+        <option value="$PROJECT_DIR$/src/com/desgin/patterns/facade/Light.java" />
+        <option value="$PROJECT_DIR$/src/com/desgin/patterns/facade/TV.java" />
+        <option value="$PROJECT_DIR$/src/com/desgin/patterns/facade/Power.java" />
+        <option value="$PROJECT_DIR$/src/com/desgin/patterns/facade/BlingLight.java" />
+        <option value="$PROJECT_DIR$/src/com/desgin/patterns/facade/APower.java" />
+        <option value="$PROJECT_DIR$/src/com/desgin/patterns/facade/ATV.java" />
+        <option value="$PROJECT_DIR$/src/com/desgin/patterns/facade/WatchTV.java" />
+        <option value="$PROJECT_DIR$/src/com/desgin/patterns/facade/TestFacade.java" />
       </list>
     </option>
   </component>
@@ -231,6 +250,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
@@ -269,31 +289,8 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="desgin_patterns" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="desgin_patterns" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="patterns" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="command" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -310,11 +307,12 @@
       <recent name="E:\Codes\desgin_patterns\src\com\desgin\patterns\decorator\useinterface" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.desgin.patterns.facade" />
       <recent name="com.desgin.patterns.factory" />
       <recent name="com.desgin.patterns.decorator" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
+  <component name="RunManager" selected="Application.TestFacade">
     <configuration default="false" name="Main" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="com.desgin.patterns.Main" />
@@ -380,6 +378,26 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="com.desgin.patterns.command.Main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="desgin_Patterns" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="TestFacade" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.desgin.patterns.facade.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.desgin.patterns.facade.TestFacade" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -614,18 +632,26 @@
       <envs />
       <method />
     </configuration>
-    <list size="4">
+    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
+      <method />
+    </configuration>
+    <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Application.Main" />
       <item index="1" class="java.lang.String" itemvalue="Application.WeatherStation" />
       <item index="2" class="java.lang.String" itemvalue="Application.StarbuzzCoffee" />
       <item index="3" class="java.lang.String" itemvalue="Application.Main (1)" />
+      <item index="4" class="java.lang.String" itemvalue="Application.TestFacade" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="Application.Main (1)" />
-        <item index="1" class="java.lang.String" itemvalue="Application.StarbuzzCoffee" />
-        <item index="2" class="java.lang.String" itemvalue="Application.WeatherStation" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Application.TestFacade" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Main (1)" />
+        <item index="2" class="java.lang.String" itemvalue="Application.StarbuzzCoffee" />
         <item index="3" class="java.lang.String" itemvalue="Application.WeatherStation" />
+        <item index="4" class="java.lang.String" itemvalue="Application.WeatherStation" />
       </list>
     </recent_temporary>
   </component>
@@ -640,15 +666,16 @@
       <workItem from="1432973613473" duration="1412000" />
       <workItem from="1433080257453" duration="1426000" />
       <workItem from="1433247535759" duration="1359000" />
+      <workItem from="1433334016797" duration="1089000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6795000" />
+    <option name="totallyTimeSpent" value="7884000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -661,7 +688,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32840723" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -688,10 +715,10 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32840723" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32840723" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.531401" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -714,38 +741,13 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/desgin/patterns/factory/Pizza.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="30" column="20" selection-start-line="30" selection-start-column="20" selection-end-line="30" selection-end-column="20" />
-          <folding>
-            <element signature="e#303#304#0" expanded="true" />
-            <element signature="e#347#348#0" expanded="true" />
-            <element signature="e#364#365#0" expanded="true" />
-            <element signature="e#409#410#0" expanded="true" />
-            <element signature="e#426#427#0" expanded="true" />
-            <element signature="e#470#471#0" expanded="true" />
-            <element signature="e#500#501#0" expanded="true" />
-            <element signature="e#527#528#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/desgin/patterns/factory/NYStyleCheesePizza.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/desgin/patterns/factory/ChicagoStyleCheesePizza.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="16" column="49" selection-start-line="16" selection-start-column="49" selection-end-line="16" selection-end-column="49" />
           <folding>
-            <element signature="e#335#336#0" expanded="true" />
-            <element signature="e#394#395#0" expanded="true" />
+            <element signature="e#335#336#0" expanded="false" />
+            <element signature="e#394#395#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -931,16 +933,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="30" column="20" selection-start-line="30" selection-start-column="20" selection-end-line="30" selection-end-column="20" />
-          <folding>
-            <element signature="e#303#304#0" expanded="true" />
-            <element signature="e#347#348#0" expanded="true" />
-            <element signature="e#364#365#0" expanded="true" />
-            <element signature="e#409#410#0" expanded="true" />
-            <element signature="e#426#427#0" expanded="true" />
-            <element signature="e#470#471#0" expanded="true" />
-            <element signature="e#500#501#0" expanded="true" />
-            <element signature="e#527#528#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -948,7 +940,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -957,8 +948,8 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="16" column="49" selection-start-line="16" selection-start-column="49" selection-end-line="16" selection-end-column="49" />
           <folding>
-            <element signature="e#335#336#0" expanded="true" />
-            <element signature="e#394#395#0" expanded="true" />
+            <element signature="e#335#336#0" expanded="false" />
+            <element signature="e#394#395#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -983,12 +974,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
-          <folding>
-            <element signature="e#189#190#0" expanded="true" />
-            <element signature="e#215#216#0" expanded="true" />
-            <element signature="e#257#258#0" expanded="true" />
-            <element signature="e#291#292#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1005,10 +991,10 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
           <folding>
-            <element signature="e#192#193#0" expanded="true" />
-            <element signature="e#218#219#0" expanded="true" />
-            <element signature="e#262#263#0" expanded="true" />
-            <element signature="e#296#297#0" expanded="true" />
+            <element signature="e#192#193#0" expanded="false" />
+            <element signature="e#218#219#0" expanded="false" />
+            <element signature="e#262#263#0" expanded="false" />
+            <element signature="e#296#297#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1017,11 +1003,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#260#261#0" expanded="true" />
-            <element signature="e#294#295#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1043,9 +1025,141 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/desgin/patterns/command/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.092348285">
+        <state vertical-scroll-proportion="0.0">
           <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/desgin/patterns/adapter/Duck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="15" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/desgin/patterns/adapter/Turkey.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/desgin/patterns/adapter/MallardDuck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="36" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="36" />
+          <folding>
+            <element signature="e#163#164#0" expanded="true" />
+            <element signature="e#206#207#0" expanded="true" />
+            <element signature="e#245#246#0" expanded="true" />
+            <element signature="e#289#290#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/desgin/patterns/adapter/WildTurkey.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="13" column="40" selection-start-line="13" selection-start-column="40" selection-end-line="13" selection-end-column="40" />
+          <folding>
+            <element signature="e#165#166#0" expanded="true" />
+            <element signature="e#209#210#0" expanded="true" />
+            <element signature="e#248#249#0" expanded="true" />
+            <element signature="e#298#299#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/desgin/patterns/adapter/TurkeyAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+          <folding>
+            <element signature="e#187#188#0" expanded="true" />
+            <element signature="e#223#224#0" expanded="true" />
+            <element signature="e#264#265#0" expanded="true" />
+            <element signature="e#295#296#0" expanded="true" />
+            <element signature="e#334#335#0" expanded="true" />
+            <element signature="e#362#363#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/desgin/patterns/facade/Light.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/desgin/patterns/facade/TV.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/desgin/patterns/facade/Power.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/desgin/patterns/facade/APower.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="40" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
+          <folding>
+            <element signature="e#155#156#0" expanded="true" />
+            <element signature="e#205#206#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/desgin/patterns/facade/BlingLight.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="39" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="39" />
+          <folding>
+            <element signature="e#159#160#0" expanded="true" />
+            <element signature="e#205#206#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/desgin/patterns/facade/ATV.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+          <folding>
+            <element signature="e#149#150#0" expanded="true" />
+            <element signature="e#192#193#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/desgin/patterns/facade/WatchTV.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/desgin/patterns/facade/TestFacade.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.42480212">
+          <caret line="7" column="44" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
+          <folding>
+            <element signature="e#226#227#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
